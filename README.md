@@ -14,3 +14,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+```java
+
+public class About extends Me{
+
+private int age = 24;
+private String name = Yasin;
+private Status currentStatus = Status.LEARNING;
+private List<Languages> languages = List.of(Turkish,English)
+
+}
+```
