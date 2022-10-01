@@ -20,7 +20,9 @@
 public class About extends Me{
 
 private int age = 24;
-private String name = Yasin;
+private String name = "Yasin";
+private String lastName = "ÇELİK";
+private String location = "Turkey";
 private Status currentStatus = Status.LEARNING;
 private List<Languages> languages = List.of(Turkish,English)
 
