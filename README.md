@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin ÇELİK!</h1>
-<h3 align="center">A self-learner Java backend developer from Istanbul / Turkey.</h3>
+<h3 align="center">A self-learner Java & React developer from Istanbul / Turkey.</h3>
 
-- 🔭 I’m currently working on **Java.**
+- 🔭 I’m currently working on **React.JS**
 
 - 📫 How to reach me **yasin.celik4@outlook.com**
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react" alt="react" width="40" height="40"/> </a> </p>
 
 ```java
 
