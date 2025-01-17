@@ -20,7 +20,7 @@
 export class Me {
   name: string = "Yasin";
   lastName: string = "ÇELİK";
-  age: number = 25;
+  age: number = 27;
   location: string = "Turkey";
   languages: string[] = ['Turkish', 'English'];
   status: string = status.WORKING;
