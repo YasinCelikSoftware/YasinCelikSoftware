@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yascelik3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yascelik3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yasincelik3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasincelik3" height="30" width="40" /></a>
 <a href="https://instagram.com/yas.celik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yas.celik" height="30" width="40" /></a>
 </p>
@@ -21,9 +20,9 @@ export class Me {
   name: string = "Yasin";
   lastName: string = "ÇELİK";
   age: number = 27;
-  location: string = "Turkey";
+  location: string = countries.TURKEY;
   languages: string[] = ['Turkish', 'English'];
-  status: string = status.WORKING;
+  status: string = statusEnum.WORKING;
   currentFramework: string = "Angular"
 }
 ```
